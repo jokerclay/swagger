@@ -51,7 +51,7 @@ public class SwaggerApplication {
 
 ```
 
-## Add `AddressBookResource.java`
+## `AddressBookResource.java`
 ```java
 package com.example.swagger;
 public class Contact {
@@ -87,7 +87,7 @@ public class Contact {
 
 ```
 
-## Add `Contact.java`
+## `Contact.java`
 ```java
 package com.example.swagger;
 public class Contact {
